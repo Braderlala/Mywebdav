@@ -1,7 +1,7 @@
 # Mywebdav - install
 
 ```
-$ pkg update;pkg upgrade
+$ pkg update && pkg upgrade
 $ pkg install curl
 $ pkg install ruby
 $ gem install lolcat
